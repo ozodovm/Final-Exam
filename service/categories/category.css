@@ -1,0 +1,9 @@
+.category-name{
+  font-family: 'Cera Pro' , sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
